@@ -1,7 +1,7 @@
 # project_proposal_jingjing
 A platform that provides a database of cat care information and maintains a community of cat owners 
 
-What: 
+What:
 Catbook is a platform that maintains a community of cat owners who could share their experience on cat care or just show off their little kitties, and maintains a comprehensive database of information about cats. 
 These information includes but is not limited to: 
 -	What type of food or brand of food does specific breed of cat like? 
@@ -25,3 +25,5 @@ There are 2 main features:
 -	The platform provides verified information about cats, categorized by breeds and age 
 Since this will be a web application, we will need to design a user interface (of course), create and maintain a database where we will keep all of the information on cats and all of the user information and posts, and research on cat care to provide an initial database of informations. 
 
+Scope: 
+This is not a very ambitious project. Therefore, my estimation is that it would probably take about 4-5 people to undertake in 1 semester. 
